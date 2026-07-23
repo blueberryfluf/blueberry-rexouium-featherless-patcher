@@ -1,0 +1,14 @@
+﻿# Ignore Unity junk / game assets — this repo is script + icons only
+*.csproj
+*.sln
+*.user
+*.suo
+.vs/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+*.unitypackage
+.DS_Store
+Thumbs.db
